@@ -10,9 +10,10 @@ I built this for a few reasons:
 
 ## Installation
 
-npm update
-chmod +x ./bin/commuter.js
+    npm update
+
+    chmod +x ./bin/commuter.js
 
 ## Usage
 
-./bin/commuter.js --start 'street, city, state, zip' --end 'street, city, state, zip'
+    ./bin/commuter.js --start 'street, city, state, zip' --end 'street, city, state, zip'
