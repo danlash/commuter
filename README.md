@@ -11,8 +11,7 @@ I built this for a few reasons:
 ## Installation
 
 npm update
-chmod +x ./lib/commuter/commuter.js
 
 ## Usage
 
-./lib/commuter/commuter.js --start 'street, city, state, zip' --dest 'street, city, state, zip'
+./bin/commuter.js --start 'street, city, state, zip' --end 'street, city, state, zip'
