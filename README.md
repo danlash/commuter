@@ -11,6 +11,7 @@ I built this for a few reasons:
 ## Installation
 
 npm update
+chmod +x ./bin/commuter.js
 
 ## Usage
 
